@@ -1,0 +1,14 @@
+D:\приложения\StudyApp1\StudyApp1\bin\Debug\netcoreapp3.1\TicTacToe.exe
+D:\приложения\StudyApp1\StudyApp1\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+D:\приложения\StudyApp1\StudyApp1\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+D:\приложения\StudyApp1\StudyApp1\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+D:\приложения\StudyApp1\StudyApp1\bin\Debug\netcoreapp3.1\TicTacToe.dll
+D:\приложения\StudyApp1\StudyApp1\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\приложения\StudyApp1\StudyApp1\obj\Debug\netcoreapp3.1\TicTacToe.csproj.AssemblyReference.cache
+D:\приложения\StudyApp1\StudyApp1\obj\Debug\netcoreapp3.1\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\приложения\StudyApp1\StudyApp1\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+D:\приложения\StudyApp1\StudyApp1\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+D:\приложения\StudyApp1\StudyApp1\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+D:\приложения\StudyApp1\StudyApp1\obj\Debug\netcoreapp3.1\TicTacToe.dll
+D:\приложения\StudyApp1\StudyApp1\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\приложения\StudyApp1\StudyApp1\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\приложения\StudyApp1\StudyApp1\bin\Debug\netcoreapp3.1\StudyApp1.exe
+D:\приложения\StudyApp1\StudyApp1\bin\Debug\netcoreapp3.1\StudyApp1.deps.json
+D:\приложения\StudyApp1\StudyApp1\bin\Debug\netcoreapp3.1\StudyApp1.runtimeconfig.json
+D:\приложения\StudyApp1\StudyApp1\bin\Debug\netcoreapp3.1\StudyApp1.runtimeconfig.dev.json
+D:\приложения\StudyApp1\StudyApp1\bin\Debug\netcoreapp3.1\StudyApp1.dll
+D:\приложения\StudyApp1\StudyApp1\bin\Debug\netcoreapp3.1\StudyApp1.pdb
+D:\приложения\StudyApp1\StudyApp1\obj\Debug\netcoreapp3.1\StudyApp1.csproj.AssemblyReference.cache
+D:\приложения\StudyApp1\StudyApp1\obj\Debug\netcoreapp3.1\StudyApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\приложения\StudyApp1\StudyApp1\obj\Debug\netcoreapp3.1\StudyApp1.AssemblyInfoInputs.cache
+D:\приложения\StudyApp1\StudyApp1\obj\Debug\netcoreapp3.1\StudyApp1.AssemblyInfo.cs
+D:\приложения\StudyApp1\StudyApp1\obj\Debug\netcoreapp3.1\StudyApp1.csproj.CoreCompileInputs.cache
+D:\приложения\StudyApp1\StudyApp1\obj\Debug\netcoreapp3.1\StudyApp1.dll
+D:\приложения\StudyApp1\StudyApp1\obj\Debug\netcoreapp3.1\StudyApp1.pdb
+D:\приложения\StudyApp1\StudyApp1\obj\Debug\netcoreapp3.1\StudyApp1.genruntimeconfig.cache
